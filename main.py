@@ -3,9 +3,9 @@ import filename
 
 # print(filename.real_name)
 
-path = 'E:/ESL'
+path = 'D:/Downloads/ESL'
 file_names = os.listdir(path)
-# print(file_names)
+print(file_names)
 
 i = 0
 for name in file_names:
